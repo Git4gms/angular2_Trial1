@@ -1,0 +1,21 @@
+.titleLang{
+
+    color:green;
+    text-align: center;
+    font-weight: bold;
+   margin-top: 50px;
+
+}
+.titleLang div{
+    position: absolute;
+    top:45%;
+    left:30%;
+
+}
+.titleLang div button{
+     color:green;
+     padding:7px;
+     border-radius: 5px;
+     background-color: #dadada;
+     font-weight: bold;
+}
